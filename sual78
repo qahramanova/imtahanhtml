@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <div>
+            <h2>MArkerli siyahilar</h2>
+            <ul>
+                <li>1ci element</li>
+                <li>2ci element</li>
+                <li>3cu element</li>
+            </ul>
+        </div>
+    </body>
+</html>
+
+
+
+##### CSS hissesi ####
+div {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(238, 165, 190);
+}
