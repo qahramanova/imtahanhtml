@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <table border="1">
+            <tr style="background-color: #9E03;">
+                <th>
+                    Ad
+                </th>
+                <th>
+                    Soyad
+                </th>
+            </tr>
+            <tr style="background-color: salmon;">
+                <td>
+                    Informasiya
+                </td>
+                <td>
+                    Texnologiyalari
+                </td>
+            </tr>
+            <tr style="background-color: lightblue;">
+                <td>
+                    Nermin
+                </td>
+                <td>
+                    Qehramanova
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
