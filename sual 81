@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <div class="siyahi">
+            <ol>
+                <div class="siyah1"><i><li>INformasiya  SIstemleri</li></i></div>
+                <div class="siyahi2"><i><li>Proseslerin avtommatlasdirilmasi</li></i></div>
+                <div class="siyahi3"><i><li>INformasiya texnologiyalari</li></i></div>
+            </ol>
+        </div>
+    </body>
+</html>
+
+#### CSS hissesi #### 
+.siyahi1 {
+    color: salmon;
+}
+.siyahi2 {
+    color: slateblue;
+}
+.siyahi3 {
+    color: lightgreen;
+}
