@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <ol>
+            <div class="list1"><b><i><li>Infromasiya sistemleri</li></i></b></div>
+            <div class="list2"><b><i><li>Infromasiya sistemleri</li></i></b></div>
+            <div class="list3"><b><i><li>Proseslerin avtomatlasdirilmasi</li></i></b></div>
+        </ol>
+    </body>
+</html>
+
+
+
+###### CSS hissesi ######
+
+* {
+    text-decoration: underline;
+}
+
+.list1 {
+    color: lightblue;
+}
+.list2 {
+    color: salmon;
+}
+.list3 {
+    color: slateblue;
+}
