@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body{
+            margin-top: 50px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        .basliq {
+            text-align: center;
+        }
+
+        .sekil {
+            float: left;
+        }
+        hr{
+            height: 10px;
+        }
+    </style>
+</head>
+
+<body style="background-color: #66ffff;">
+    <h1 class="basliq">Azadliq heykeli</h1>
+    <hr color="green" width="300px" >
+    <del><p class="birinci"> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p></del>
+    <hr>
+    <div class="sekil"><img src="indir1.jpg" alt=""></div>
+    <b><p class="ikinci"> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p></b>
+    <hr>
+    <p class="ucuncu"> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p>
+    <hr>
+    <p> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p>
+    <hr>
+    <i><p> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p></i>
+    <hr>
+    <p> Azadlıq heykəli" (ing. The Statue of Liberty) və ya "Dünyanı işıqlandıran azadlıq" (ing. Liberty Enlightening
+        the World; fr. La Liberté éclairant le monde) — Nyu-York, Manhettendə, Nyu-York limanında yerləşən Azadlıq
+        adasında ucaldılmış nəhəng neoklassik heykəl. Frederik Ogüst Bartoldi tərəfindən hazırlanmış heykəl 28 oktyabr
+        1886-cı ildə Fransa xalqı adından ABŞ-a hədiyyə edilmişdir. Heykəldə təsvir olunan ayaq üstə dayanmış xələtli
+        qadın Roma azadlıq ilahəsi Libertası təcəssüm etdirir. O bir əlində azadlıq məşəli, digərində isə üzərində ABŞ
+        Müstəqillik Bəyannaməsinin elan edildiyi 4 iyul 1776-cı il tarixinin yazıldığı tabula ansata (qanunların
+        yazıldığı tablet) tutmuşdur. Qırılmış zəncir onun ayağının üstünə sərilmişdir. Azadlığın və ABŞ-ın
+        simvollarından biri olan heykəl, xaricdən gələn qonaqları salamlayan siqnaldır.
+    </p>
+
+</body>
+
+</html>
