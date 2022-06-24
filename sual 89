@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        img{
+            float: right;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+
+<body >
+    <img src="indir1.jpg" alt="" width="30%" height="50%">
+    <div>
+        <u><p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium esse labore sint aperiam? Ad doloremque veniam, aliquam debitis libero obcaecati omnis corrupti ipsum ex natus fugiat quia qui, ea error.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quos vero asperiores, maxime amet voluptas nam dolorem reiciendis voluptate, ad mollitia praesentium? Quaerat ex architecto officia veritatis quae placeat ut?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea fugit molestiae vero exercitationem deleniti esse rem aliquid dolor excepturi eius placeat nisi iusto, velit explicabo ducimus, facere itaque error corporis?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sint nisi quisquam inventore amet perspiciatis quas accusantium dolor in? Vel possimus sapiente omnis minima eos nemo labore qui dolorem repellat.
+        </p></u>
+    </div>
+    
+</body>
