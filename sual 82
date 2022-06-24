@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <div>
+          <table border="1" style="padding: 10px;">
+           <tr style="background-color: yellow;">
+            <th>
+                Olke
+            </th>
+            <th>
+                Paytaxt
+            </th>
+            <th>
+                Dil
+            </th>
+           </tr>
+           <tr style="background-color: lightblue;">
+            <td>
+                Azerbyacan
+            </td>
+            <td>
+                Baki
+            </td>
+            <td>
+                Azerbaycan
+            </td>
+           </tr>
+           <tr style="background-color: red;">
+            <td>
+                Turkiye
+            </td>
+            <td>
+                Ankara
+            </td>
+            <td>
+                Turk
+            </td>
+            <tr style="background-color: lightgreen;">
+                <td>
+                    Ingiltere
+                </td>
+                <td>
+                    London
+                </td>
+                <td>
+                    Ingilis
+                </td>
+           </tr>
+
+          </table>
+        </div>
+    </body>
+</html>
+
+
+
+####CSS formasi####
+table th, td {
+    margin: 15px;
+    width: 200px;
+    padding: 10px;
+}
