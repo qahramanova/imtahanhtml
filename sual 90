@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        p {
+            color: red;
+            font-family: calibri;
+            text-align: right;
+            font-size: 9px;
+
+        }
+
+        img {
+            width: 200px;
+            height: 100px;
+            float: right;
+
+        }
+    </style>
+</head>
+
+<body bgcolor="orange">
+    <img src="indir1.jpg" alt="">
+    <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa quia vero, rem incidunt nihil veniam laborum
+            sint modi porro maxime optio blanditiis minima. Veritatis amet dolores accusantium itaque adipisci non.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima saepe iste nobis, blanditiis maxime
+            repellat accusamus aliquam necessitatibus porro esse nulla voluptatem nisi, quaerat laborum voluptatum sit
+            vitae magni sunt.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quod quas eligendi. Fuga impedit repudiandae
+            iusto voluptate vero blanditiis quis est ipsa dolore, perspiciatis alias aperiam delectus! Vitae, ullam?
+            Error!
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus corporis dolores repellendus eveniet
+            quos dicta, consectetur natus alias excepturi illo molestiae magnam laudantium, magni tenetur sint nulla,
+            veniam ducimus minima?
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam dolore est, distinctio, debitis quos reiciendis vero excepturi aspernatur sequi aperiam exercitationem repellat explicabo, consequuntur dolorum ea accusantium. Hic, odio quia.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel molestiae, voluptates suscipit qui ipsum voluptas corporis animi eos repellat amet esse praesentium. Quam, blanditiis recusandae repudiandae inventore reprehenderit illum aspernatur?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime hic qui exercitationem voluptas fugit quibusdam nesciunt rem, enim id itaque delectus libero possimus temporibus unde dolorem tempora, maiores odio sint!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur repellat, quaerat, deserunt aliquam explicabo earum non nemo aut consectetur aperiam qui quod exercitationem obcaecati quam omnis ullam animi accusamus deleniti!
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate velit voluptatibus laudantium vel dolorem tempora. Maxime quos aliquid alias beatae corporis ex pariatur obcaecati tenetur nobis neque, ducimus, amet reprehenderit?
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab delectus eligendi odio, incidunt doloremque a labore reprehenderit quod quae, non accusamus qui molestiae possimus. Illum vero nihil rerum asperiores ut.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, facere? Aperiam accusantium, alias similique veritatis explicabo nihil neque sit. Consectetur earum voluptatem officiis recusandae labore amet officia alias repellat impedit!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, animi magnam sit odit magni ex architecto deserunt ea minus laboriosam quod unde mollitia, nihil porro, vero blanditiis nesciunt eius aspernatur.
+
+       
+    </p>
+    
+    <hr>
+
+
+</body>
+
+</html>
