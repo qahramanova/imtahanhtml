@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        h5 {
+            color: grey;
+            font-family: verdana;
+            text-align: center;
+
+        }
+
+        hr {
+            width: 50%;
+
+        }
+    </style>
+</head>
+
+<body bgcolor="pink">
+    <h5>1234567890qwertyuiop</h5>
+    <hr color="green">
+</body>
+
+</html>
