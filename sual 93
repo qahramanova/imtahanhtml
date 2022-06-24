@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+td{
+    width: 10%;
+}
+    </style>
+</head>
+
+<body>
+    <table border="1px">
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+        <tr>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+            <td>
+                asd
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
