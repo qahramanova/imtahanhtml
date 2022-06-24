@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body >
+        <table width="400" height="200" border="1" style="background-color: pink;">
+            <tr>
+                <th rowspan="2">Iscinin adi</th>
+                <td> Konul</td>
+            </tr>
+            <tr>
+                <td rowspan="2">77979996</td>
+            </tr>
+
+            <tr>
+                 <th rowspan="2">Telefon nomresi gmail</th>
+            </tr>
+            <tr>
+                <td>konul@nfnfnff</td>
+            </tr>
+
+        </table>
+</html>
