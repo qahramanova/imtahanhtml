@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="imtahan.css">
+</head>
+<body>
+    <h1>Block</h1>
+    <span>An element</span>
+    <div class="div1">
+        This is div tag 
+        <div class="div2">  This is div tag </div>
+    </div>
+ 
+</body>
+
+#### CSS dersleri ###
+.div1 {
+    width: 500px;
+    height: 130px;
+    border: 3px solid green;
+}
+.div2 {
+    width: 200px;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 292px;
+    margin-right: 2px;
+    padding-bottom: 30px;
+    border: 2px solid green;
+}
