@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menim universitetim</title>
+    <link rel="stylesheet" href="imtahan.css">
+</head>
+
+<body>
+    <h1>Azərbaycan Memarlıq və İnşaat Universiteti haqqında məlumat</h1>
+    <p>Azərbaycan Memarlıq və İnşaat Universiteti Balı şəhərində yerləşir. Tədris Azərbaycaan, Rus və İngilis dillərində aparılır.</p>
+    <div>
+       Əsası 1975 ci ildə qoyulmuş universitetin ümumi sahəsi 49000m2 olan 5 tədris korpusu, tələbə şəhərciyi vardır. Şəhərcikdə xarici tələbələr üçün 9 mərtəbəli 1 yataqxana korpusu və kommersiya əsasinda fəaliyyət göstərən "Damla" korpusu yerləşir. Universitetin nəzdində İnşaat kolleci və texniki təmayüllü Lisey fəaliyyət göstərir.
+    </div>
+</body>
+
+</html>
+
+
+####  Css hissesi ####
+div {
+    width: 200px;
+    height: 250px;
+    background-color: white;
+    border: solid 1px black;
+}
