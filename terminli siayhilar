@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <dl>
+            <dt>
+                En sevdiyiniz ixtisas nedir?
+            </dt>
+            <dd>
+                Cavab: Informasiya Texnologiyalari
+            </dd>
+        </dl>
+    </body> 
+</html>
