@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menim universitetim</title>
+        <link rel="stylesheet" href="imtahan.css">
+    </head>
+    <body>
+        <form>
+            <label for="iadi">IStifadeci adi</label>
+            <input id="iadi" type="text" placeholder="istifadeci adi daxil edin "> <br> <br>
+            <label for="password">Sifre</label>
+            <input id="password" type="password" placeholder="Sifre daxil edin"> <br><br>
+            <label for="email">Email</label>
+            <input id="email" type="email" placeholder="Email daxil edin"><br><br>
+            <label for="checkbox"> Sertleri qebul edirem</label>
+            <input id="checkbox" type="checkbox"> <br> <br>
+            <label>
+                <input type="radio" name="cinsiyyet" value="qadin"> Qadin
+            </label>
+            <label>
+                <input type="radio" name="cinsiyyet" value="kisi"> Kisi
+            </label>
+        </form>  
+    </body> 
+</html>
