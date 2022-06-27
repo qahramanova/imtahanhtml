@@ -3,12 +3,12 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Menim universitetim</title>
+<title>Menim universitetim</title>
         <link rel="stylesheet" href="imtahan.css">
     </head>
     <body>
         <div>
-          <table border="1" style="padding: 10px;">
+          <table border="1" style="padding: 3px;">
            <tr style="background-color: yellow;">
             <th>
                 Olke
@@ -61,7 +61,13 @@
 
 
 ####CSS formasi####
-table th, td {
+tr, td {
+    border: 15px solid lightslategray;
+    padding: 10px;
+    width: 33%;
+}
+
+table th {
     margin: 15px;
     width: 200px;
     padding: 10px;
